@@ -1,7 +1,7 @@
 ## Divisão das tarefas
 
-Maria Aparecida da Silva Aranha - Exercício 1 Completo <br>
-Matheus Weslley de Oliveira Freitas - Exercício 2 Completo <br>
+Maria Aparecida da Silva Aranha - Exercício 2 Completo <br>
+Matheus Weslley de Oliveira Freitas - Exercício 3 Completo <br>
 Gabriel Ramalhão - Exercício 6 <br>
 Fernanda Iolanda da Silva Rosas - Exercício 5 <br>
 Stephan Andrade Martins Lessa - Exercício 4 <br>
